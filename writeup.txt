@@ -1,0 +1,18 @@
+FlowMaster Pro: AI-Powered M365 Task Suggester
+
+Problem: Microsoft 365 users are overwhelmed by emails and meetings, losing track of critical tasks.
+
+Solution: FlowMaster Pro is an AI agent that scans M365 emails and calendars, suggesting prioritized tasks via a Teams bot. This prototype extracts a task (“prepare slides”) from a mock email, mimicking M365 data with a hardcoded output to simulate Azure AI Text Analytics. The console output represents a Teams bot reply.
+
+Tech Stack: Python, mock data simulating M365. Planned: M365 Agents SDK for real email/calendar integration, Azure AI for NLP, Teams bot for delivery.
+
+Impact: Saves time for professionals by surfacing key tasks. Scalable to team workflows, enhancing M365’s productivity ecosystem.
+
+Challenges: Time constraints limited this to a console prototype with mock data due to a late start. Future versions would add M365 SDK and sentiment-based prioritization.
+
+Solo Effort: Built in 2 hours, leveraging my AI expertise to showcase Microsoft’s potential.
+
+Repo: https://github.com/Sanjeet700/FlowMasterPro
+Demo: Screenshot of console output (attached).
+
+FlowMaster Pro proves M365 can be smarter, helping Microsoft deliver intuitive tools.
